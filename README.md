@@ -12,7 +12,7 @@ The data used in this project will help to identify whether a person is going to
 14. Result: death (1) or recovered (0)
 
 It is required to design different classifiers to the predict the outcome (death/recovered) when a new person is admitted to the hospital. The data is already cleaned and preprocessed.
-##Libraries Used
+## Libraries Used
 1. Pandas
 2. Numpy
 3. Matplotlib
