@@ -18,3 +18,6 @@ It is required to design different classifiers to the predict the outcome (death
 3. Matplotlib
 4. sklearn
 5. seaborn
+
+## important note
+Each time you run the code you get different training, validation and testing data. This is why the results and hyperparaameters will be different each time you run the notebook.
