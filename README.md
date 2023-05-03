@@ -20,4 +20,4 @@ It is required to design different classifiers to the predict the outcome (death
 5. seaborn
 
 ## important note
-Each time you run the code you get different training, validation and testing data. This is why the results and hyperparaameters will be different each time you run the notebook.
+Each time you run the code you get different training, validation and testing data as the random state is not specified. This is why the results and hyper-parameters will be different each time you run the notebook.
